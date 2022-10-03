@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+Sun Oct 02 18:52:49 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-98dd-168b-000004d65b40 
+on database directory memory:D:\WEB\SpringBoot\secondapp\secondapp\ac02c9ea-5267-4be9-843f-e1d2edecb0cf with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2aae9190 
+Loaded from file:/C:/Users/joshi/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.16+11-LTS-199
+user.dir=D:\WEB\SpringBoot\secondapp\secondapp
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 02 18:57:24 IST 2022:
+Shutting down instance a816c00e-0183-98dd-168b-000004d65b40 on database directory memory:D:\WEB\SpringBoot\secondapp\secondapp\ac02c9ea-5267-4be9-843f-e1d2edecb0cf with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2aae9190 
+----------------------------------------------------------------
+Sun Oct 02 18:57:25 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f04340b7-0183-98dd-168b-000004d65b40 
+on database directory memory:D:\WEB\SpringBoot\secondapp\secondapp\30873075-d43f-46e5-bf2b-0804ffbfbda4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2aae9190 
+Loaded from file:/C:/Users/joshi/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.16+11-LTS-199
+user.dir=D:\WEB\SpringBoot\secondapp\secondapp
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
