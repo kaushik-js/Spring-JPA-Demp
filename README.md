@@ -1,1 +1,1 @@
-# Spring-JPA-Demp
+# Spring-JPA-Derby
